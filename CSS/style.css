@@ -65,7 +65,7 @@ h2, h3 , h4, h5, h6 {
   text-align: center;
 }
   
-  /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
+  /* DO NOT TOUCH*/
   .dropdown-menu {
     left: -97px;
   }
@@ -83,4 +83,3 @@ h2, h3 , h4, h5, h6 {
   .card {
     margin: 0 auto;
   }
-  
